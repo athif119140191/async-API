@@ -15,7 +15,9 @@ Aplikasi ini digunakan untuk menampilkan informasi orang. Informasi detail dapat
 ### Cara menginstall aplikasi
 #### Installation
 
-Run in terminal git clone https://github.com/athif119140191/async-API.git && cd async-API && npm install
+Run in terminal: 
+
+git clone https://github.com/athif119140191/async-API.git && cd async-API && npm install
 
 ### Link APK
 https://bit.ly/PAM-async-API
